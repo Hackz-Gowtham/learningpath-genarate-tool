@@ -8,9 +8,9 @@ st.title("Model Context Protocol(MCP) - Learning Path Generator")
 
 # Built-in defaults: st.secrets -> environment variables -> DEFAULT_CONFIG
 DEFAULT_CONFIG = {
-    "GOOGLE_API_KEY": "AIzaSyBuGdRBKluYP-9Je1sDdVtl1c6n5IoQnFY",
-    "YOUTUBE_PIPEDREAM_URL": "https://mcp.pipedream.net/7c2e475c-09c2-4bc9-bd3c-9c29438caf03/youtube_data_api",
-    "DRIVE_PIPEDREAM_URL": "https://mcp.pipedream.net/7c2e475c-09c2-4bc9-bd3c-9c29438caf03/google_drive",
+    "GOOGLE_API_KEY": "",
+    "YOUTUBE_PIPEDREAM_URL": "",
+    "DRIVE_PIPEDREAM_URL": "",
     "NOTION_PIPEDREAM_URL": "",
     "SECONDARY_TOOL": "Drive",
 }
